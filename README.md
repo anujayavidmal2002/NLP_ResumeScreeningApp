@@ -49,8 +49,8 @@ Examples include:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/anujayavidmal2002/ResumeCategoryPredictionApp.git
-cd ResumeCategoryPredictionApp
+git clone https://github.com/anujayavidmal2002/NLP_ResumeScreeningApp.git
+cd NLP_ResumeScreeningApp
 ```
 
 ### 2️⃣ Install the required libraries

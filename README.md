@@ -85,16 +85,7 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
 
-> *(Add screenshots manually to the repo and update these paths)*
-
-```
-screenshots/upload.png
-screenshots/predicted.png
-```
-
----
 
 ## 📊 Model Training Summary
 
